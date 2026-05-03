@@ -1,0 +1,1 @@
+UPDATE usuario SET activo = FALSE WHERE username = 'maria.consulta';
