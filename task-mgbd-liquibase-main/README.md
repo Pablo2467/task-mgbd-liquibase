@@ -1,7 +1,9 @@
 # **task-mgbd-liquibase**
 
 👤 Juan Pablo Valverde Barreiro
+
 📚Taller investigativo: construcción de base de datos con Liquibase, Docker y PostgreSQL.
+
 🛢️☕︎Asignatura: Modelado y Gestión de Base de Datos — CORHUILA.
 
 ## Tecnologías utilizadas
